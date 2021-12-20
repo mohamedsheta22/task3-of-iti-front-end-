@@ -1,0 +1,19 @@
+table{
+    background-color:#000000;
+}
+u{
+    color:gray;
+}
+tr td,tr td u,tr td a{
+    font-family:calibri;
+    color:#000000;
+    font-size:18px;
+}
+.first{
+    background-color: #4f81bd;
+}
+.first .td{text-align:center;
+    font-family:calibri;
+    color:#fff;
+    font-size:18px;
+}

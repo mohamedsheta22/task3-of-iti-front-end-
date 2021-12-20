@@ -1,0 +1,89 @@
+.cotainer{
+    width: 400px;
+    height:350px;
+    margin: auto;
+    border:1px solid #000;
+    margin-top:100px;
+}
+#first{
+    margin-left:20px;
+}
+.span_one a img{
+    width: 25px;
+     height: 25px;
+     margin-bottom:10px;
+     margin-left:5px;
+    }
+.span_one b{
+    margin:20px 0px 10px 10px;
+    color:#fff;
+    font-family:Calibri
+}
+.span_one{
+    width:45%;
+    display:inline-block;
+    margin: 20px 5px 0px;
+    padding-top:10px;
+    background:	#3B5999;
+}
+.span_two a img{
+    width: 25px;
+     height: 25px;
+     margin-bottom:10px;
+     margin-left:5px;
+    }
+.span_two b{
+    margin:20px 0px 10px 10px;
+    color:#fff;
+    font-family:Calibri;
+}
+.span_two{
+    width:45%;
+    display:inline-block;
+    margin: 20px 0px;
+    padding-top:10px;
+    background:#1DA1F3;
+}
+
+#second{
+    text-align:center;
+    margin-top:10px;
+}
+#second span:first-of-type{
+    background:#CBCBCB;
+    border-radius:50%;
+    padding:5px;
+}
+#second>input{
+    width:70%;
+    margin-top:15px;
+    padding:5px;
+    border:2px solid gray;
+    color:lightgray;
+}
+#second .sp_two{
+    color:gray;
+    font-family:Calibri;
+    margin-top:10px;
+    display:inline-block;
+    margin-right:20px;
+}
+#second .sp_three{
+    color:gray;
+    font-family:Calibri;
+    margin-top:10px;
+}
+#second>input[type="button"]{
+    padding:10px;
+    background:#3B5999;
+    width:72%;
+    color:#fff;
+}
+#second p{
+    font-family:Calibri
+}
+#second p .last{
+    color:#1DA1F3;
+    background:#fff;
+    font-weight:bold;
+}

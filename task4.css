@@ -1,0 +1,36 @@
+body{
+    font-family:arial;
+}
+form{
+    width:50%;
+    margin:auto;
+    border:1px solid black;
+    height:800px;
+}
+#f_div{
+    background:#95CA57;
+   color: azure;
+    padding: 10px;
+    
+    }
+#s_div{
+    margin:auto;
+    width:95%;
+}
+.border{
+    width:100%;
+    border-bottom:5px dotted #000;
+    margin:15px 0px;
+}
+#s_div div{
+    float:left;
+}
+#s_div div input{
+    width:100%;
+}
+img[src="images/org.jpg"]{
+    margin-top:10px;
+}
+h3{
+    color: #10564d;
+}
